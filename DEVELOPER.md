@@ -1,5 +1,5 @@
 
-## Development
+## Test
 
 We encourage community contributions to Kong. To make sure it is a smooth
 experience (both for you and for the Kong team), please read
